@@ -26,6 +26,7 @@ SECRET_KEY = 'django-insecure-49c1b-cqwryn%j(cu#h!zp%2g#8onzc(6&r&h5^)pif()4rlxv
 DEBUG = True
 
 ALLOWED_HOSTS = [
+    'bookstoreapi-01ys.onrender.com',
     '192.168.14.104',   #home
     '192.168.8.108',    #cty host
     '127.0.0.1',
